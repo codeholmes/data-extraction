@@ -13,7 +13,7 @@ sys.path.append(root_dir)
 
 st.title("Data Extractor")
 st.write(
-    "This is a simple web app to extract data from PDF or image. This app is built using Streamlit, Pytesseract, and OpenCV."
+    "This is a simple web app to extract data from PDF or image. This app is built using Streamlit, Pytesseract, and img2table."
 )
 
 
